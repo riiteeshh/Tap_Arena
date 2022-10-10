@@ -1,6 +1,6 @@
-# tap
+# Tap_Arena
 
-A new Flutter project.
+A new Flutter Game.
 
 ## Getting Started
 
