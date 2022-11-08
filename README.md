@@ -1,16 +1,10 @@
-# tap
+Tap_Arena
 
-A new Flutter project.
+A new Flutter Game.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1665381165](https://user-images.githubusercontent.com/84494381/194805480-f784ff2f-4d4d-423b-86c4-d1dd7bc4da9b.png)
+![Screenshot_1665379721](https://user-images.githubusercontent.com/84494381/194805488-10886a36-f11a-43ce-bf3c-85300242ae4c.png)
+![Screenshot_1665379713](https://user-images.githubusercontent.com/84494381/194805492-e36de648-7eee-4ab1-a089-257291736f68.png)
+![Screenshot_1665379726](https://user-images.githubusercontent.com/84494381/194805514-4cca4784-16f9-42d3-ba81-4e6b7b57f57e.png)
