@@ -47,13 +47,12 @@ class ButtonState extends State<Button> {
         assetsAudioPlayerb.open(
           Audio("assets/audios/punch.wav"),
         );
-        print('red:');
-        print(playerx);
 
         if (playery < -0.44) {
           selected_p2 = 3;
           blue = true;
           red = false;
+          assetsAudioPlayerb.pause();
           isdisabledred = true;
           bluewins();
         }
@@ -74,12 +73,11 @@ class ButtonState extends State<Button> {
         assetsAudioPlayerr.open(
           Audio("assets/audios/punch.wav"),
         );
-        print('blue:');
-        print(playerx);
         if (playerx > 0.51) {
           selected_p1 = 3;
           red = true;
           blue = false;
+          assetsAudioPlayerr.pause();
           isdisabledblue = true;
           redwins();
         }
